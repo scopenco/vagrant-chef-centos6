@@ -1,0 +1,10 @@
+name             'cookbook'
+maintainer       'Andrei Skopenko'
+maintainer_email 'andrei@skopenko.net'
+license          'All rights reserved'
+description      'Cookbook for devel env deployment'
+long_description 'Cookbook for devel env deployment'
+version          '0.0.1'
+
+depends 'yum-epel'
+depends 'sudo'
