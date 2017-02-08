@@ -1,4 +1,4 @@
-# Vagrant CentOS 6 Environment
+# Vagrant CentOS 6 Environment with Chef provisiover
 
 ### Desciprion
 
